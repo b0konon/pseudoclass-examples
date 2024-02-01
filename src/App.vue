@@ -1,15 +1,14 @@
 <template>
-  <img alt="Vue logo" src="./assets/logo.png">
-  <HelloWorld msg="Welcome to Your Vue.js App"/>
+  <PseudoClassExamples/>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+import PseudoClassExamples from './components/PseudoClassExamples.vue'
 
 export default {
   name: 'App',
   components: {
-    HelloWorld
+    PseudoClassExamples
   }
 }
 </script>
@@ -22,5 +21,6 @@ export default {
   text-align: center;
   color: #2c3e50;
   margin-top: 60px;
+  margin-bottom: 100px;
 }
 </style>
