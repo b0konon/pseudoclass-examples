@@ -66,11 +66,11 @@
   color: #027;
   font-weight:bolder;
 }
-/*
+
 footer a {
   color: #f27;
   font-weight: bold;
-}*/
+}
 
 
 

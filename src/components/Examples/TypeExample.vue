@@ -13,14 +13,14 @@
 .wrapper{
   font-weight: bold;
 }
-
-.wrapper div:nth-of-type(0) {
-  font-size: 2rem;
-  font-color:
-}
 /*
+.wrapper span:nth-of-type(2) {
+  font-size: 2rem;
+  color: red;
+}
+*/
 .wrapper div:last-of-type {
   font-size: 2rem;
 }
-*/
+
 </style>

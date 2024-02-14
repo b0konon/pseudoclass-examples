@@ -10,6 +10,7 @@
   <ChildExample/>
   <TypeExample/>
   <IsWhereExample/>
+  <HasExample/>
   <FunctionalExamples/>
 </template>
 
@@ -31,4 +32,5 @@ import ChildExample from "@/components/Examples/ChildExample.vue";
 import FunctionalExamples from "@/components/Examples/FunctionalExamples.vue";
 import TypeExample from "@/components/Examples/TypeExample.vue";
 import IsWhereExample from "@/components/Examples/IsWhereExample.vue";
+import HasExample from "@/components/Examples/HasExample.vue";
 </script>

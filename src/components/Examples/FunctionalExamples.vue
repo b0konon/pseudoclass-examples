@@ -11,17 +11,9 @@
 p{
   font-weight: bold;
 }
-.code{
-  font: 1em Consolas, monospace;
-  margin: auto;
-  background-color: #eee;
-  padding: 20px;
-  width: 400px;
-  text-align: left;
-  border-radius: 10px;
-}
-/*
+
+
 p:not(.intro) {
   color: #227700;
-}*/
+}
 </style>

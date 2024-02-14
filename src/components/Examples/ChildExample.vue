@@ -21,16 +21,16 @@ ul {
   font-weight: bold;
 }
 /*
-li:first-child {
+li:last-child {
+  font-size: 2rem;
+  color: #190;
+}*/
+
+
+li:nth-child(3n+1) {
   font-size: 2rem;
   color: #190;
 }
-*/
-/*
-li:nth-child(1) {
-  font-size: 2rem;
-  color: #190;
-}
-*/
+
 </style>
 <!-- eslint-disable -->
